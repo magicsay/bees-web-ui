@@ -1,7 +1,7 @@
 {
   "name": "bees-web-ui",
   "version": "0.0.6",
-  "description": "小蜜蜂Web-UI套件",
+  "description": "小蜜蜂Web-UI套件-目前为小蜜蜂产品服务使用",
   "main": "lib/index.js",
   "directories": {
     "example": "example",
@@ -17,8 +17,8 @@
     "type": "git",
     "url": "git+https://github.com/magicsay/bees-web-ui.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["ui"],
+  "author": "白告",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/magicsay/bees-web-ui/issues"
